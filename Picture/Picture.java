@@ -52,7 +52,7 @@ public class Picture
         roof.moveHorizontal(135);
         roof.moveVertical(15);
         roof.makeVisible();
-        roof.changeColor("red");
+        roof.changeColor("yellow");
 
         ground = new Square();
         ground.changeColor("green");
